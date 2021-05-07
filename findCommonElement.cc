@@ -45,8 +45,9 @@ int main() {
     
 }
 
-
+/*
 // Javascript built in (ES6)
 function commonELement3(arr1, arr2) {
     return arr1.some(item => arr2.include(item));
 }
+*/
