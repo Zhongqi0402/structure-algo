@@ -44,3 +44,9 @@ int main() {
     std::cout << commonElement2(vec1, vec2) << std::endl;
     
 }
+
+
+// Javascript built in (ES6)
+function commonELement3(arr1, arr2) {
+    return arr1.some(item => arr2.include(item));
+}
